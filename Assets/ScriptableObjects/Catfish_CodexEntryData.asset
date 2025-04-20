@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 531c61e30e8861a4091cac30c578d8cd, type: 3}
+  m_Name: Catfish_CodexEntryData
+  m_EditorClassIdentifier: 
+  Description: "Codex Entry: The Murkborn                     Origin: Legends speak
+    of a drowned village, swallowed by a rising swamp after its people defiled sacred
+    waters. The Murkborn are said to be the cursed remnants of that lost settlement\u2014twisted,
+    amphibious horrors that lurk beneath the reeds. Neither man nor beast, they have
+    forgotten their former selves, bound only by an insatiable hunger for the living.                     
+    Description: A towering, grotesque hybrid of humanoid and catfish, its slick,
+    mottled skin glistens with swamp filth. Its mouth is lined with rows of needle-like
+    teeth, perpetually stretched into a grotesque, knowing grin. Long, webbed claws
+    grasp a crude spear, fashioned from bone and driftwood, a tool for dragging prey
+    into the depths. Its bulging, lidless eyes reflect no light\u2014only the abyss.                     
+    Behavior: The Murkborn are ambush predators, lurking in the murky shallows or
+    beneath wooden docks, waiting in eerie stillness. They move with unsettling speed
+    when striking, spearing victims before hauling them into the swamp\u2019s black
+    embrace. When not hunting, they murmur in guttural croaks\u2014echoes of a language
+    long lost to the bog."
+  RenderTexture: {fileID: 8400000, guid: 444cb263a631a714fb1cdb478eb32088, type: 2}

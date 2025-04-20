@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 531c61e30e8861a4091cac30c578d8cd, type: 3}
+  m_Name: Creep_CodexEntryData
+  m_EditorClassIdentifier: 
+  Description: "Codex Entry: The Gnawing One                     Origin: Deep beneath
+    the city streets, where the tunnels stretch beyond memory, something festers.
+    Some say it was once human\u2014an outcast forced into the dark, feeding on filth
+    until it became filth itself. Others believe it is older than the city, a primordial
+    hunger that lurks beneath every civilization. Whatever the truth, the Gnawing
+    One does not simply survive in the underworld\u2014it reigns.                     
+    Description: A grotesque fusion of rodent and nightmare, its flesh is stretched
+    tight over wiry muscles, pocked with festering sores. Its eyeless face twists
+    into a permanent snarl, jagged teeth gnashed together in endless hunger. Slick,
+    sinewy arms end in long, grasping claws, capable of rending flesh and burrowing
+    through stone. It does not need to see. It smells. It feels. It knows you are
+    here.                      Behavior: The Gnawing One is never alone. Where it
+    lingers, so do the lesser things\u2014the vermin, the carrion eaters, the wretched
+    husks of what it leaves behind. It hunts through tunnels and forgotten corridors,
+    its breath rattling in the dark. It does not kill for sport; it consumes, dragging
+    its prey into unseen depths where their screams will never rise. Those who hear
+    its chattering in the walls would do well to leave before it comes to collect."
+  RenderTexture: {fileID: 8400000, guid: fccf01f6cfc283340a4a39bd7acd2d05, type: 2}

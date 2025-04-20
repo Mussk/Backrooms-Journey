@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 531c61e30e8861a4091cac30c578d8cd, type: 3}
+  m_Name: Cyber_CodexEntryData
+  m_EditorClassIdentifier: 
+  Description: "Codex Entry: The Bound Ones                     Origin: There was
+    a time when they were two\u2014brothers. Their fate was sealed when they were
+    taken by the surgeons of the Machine Cult, who saw no use for the individual
+    when two could become one. Flesh was fused, nerves rewired, and minds forced
+    into unholy synchronicity. Now, they roam as a single abomination, bound in agony,
+    their thoughts tangled like exposed circuitry.                      Description:
+    A grotesque fusion of flesh and metal, two bodies stitched together at the spine,
+    their torsos twisted into an unnatural symmetry. One head twitches erratically,
+    its mouth sewn shut, while the other screams with a voice full of static. Cybernetic
+    limbs extend where flesh once was, grafted from rusted machinery and sparking
+    with unstable energy. Their mismatched hands grasp at unseen pain, their shared
+    body moving in an erratic, lurching rhythm.                      Behavior: The
+    Bound Ones are unpredictable, their dual consciousness forever at war. One half
+    is calculated, methodical, seeking to trap prey with cold precision. The other
+    is rage incarnate, lashing out in chaotic fury. Together, they hunt with unsettling
+    coordination, speaking in fragmented transmissions and corrupted speech. To see
+    them is to be seen, for their mechanical eyes record all, transmitting unknown
+    data to unknown masters."
+  RenderTexture: {fileID: 8400000, guid: 73d3438454f404041b43981c7a45aefb, type: 2}

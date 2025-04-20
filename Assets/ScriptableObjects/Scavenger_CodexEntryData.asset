@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 531c61e30e8861a4091cac30c578d8cd, type: 3}
+  m_Name: Scavenger_CodexEntryData
+  m_EditorClassIdentifier: 
+  Description: "Codex Entry: The Chitin Reaper                     Origin: No one
+    knows where it came from. Some claim it is the last remnant of an ancient, insectoid
+    race that once ruled the underworld, now reduced to a single vengeful survivor.
+    Others whisper that it was made\u2014a fusion of flesh and weapon, grown in a
+    forgotten laboratory where evolution was forced upon unwilling hosts. Whatever
+    the truth, the Chitin Reaper exists only for one purpose: to kill.                     
+    Description: A towering, nightmarish insect-like creature with a grotesquely
+    muscular frame, its skin stretched taut over fibrous, sinewy flesh. Unlike a
+    true exoskeleton, its body is reinforced with hardened organic plating\u2014growths
+    of thick, calcified bone-like material that pulse as if alive. Its arms end not
+    in hands, but in jagged, scythe-like blades of exposed bone, sharpened to a cruel
+    edge through endless slaughter. Its multi-faceted eyes reflect no emotion, only
+    cold calculation. A hidden maw clicks and shudders beneath its armored face,
+    unseen mandibles twitching in anticipation. It does not make a sound unless it
+    wants you to hear it. And when you do, it is already too late.                     
+    Behavior: The Chitin Reaper is a perfect predator, relying on speed and stealth
+    to ambush its prey. It clings to walls, ceilings, and unseen crevices, its body
+    shifting with unnatural grace. When it strikes, it does so with terrifying precision\u2014one
+    blade to immobilize, the other to finish the job. It does not feast, does not
+    linger. It simply moves on, searching for the next victim."
+  RenderTexture: {fileID: 8400000, guid: b5c71379f9df9d7438027b27d1d1c7e2, type: 2}
